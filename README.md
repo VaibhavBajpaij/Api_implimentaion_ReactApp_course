@@ -1,3 +1,7 @@
+![Screenshot 2024-09-11 154658](https://github.com/user-attachments/assets/0bd41887-4c48-457f-b642-85a7834b08a8)
+![Screenshot 2024-09-11 154635](https://github.com/user-attachments/assets/d78ef17c-3ad2-4425-8d07-8e693ce8aaf0)
+![Screenshot 2024-09-11 154606](https://github.com/user-attachments/assets/f7c02fbe-3a99-4b17-8079-43601dc281a0)
+![Screenshot 2024-09-11 154547](https://github.com/user-attachments/assets/235a418a-701f-4540-847d-f554dc901d7e)
 # React & Tailwind CSS Starter Pack
 
 This React app dynamically generates UI designs using an API, offering customizable components, real-time updates, and responsive layouts for a seamless and efficient design experience. Perfect for developers and designers alike.
